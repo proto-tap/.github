@@ -2,11 +2,11 @@
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤-ea4aaa?style=flat-square&logo=github)](https://github.com/sponsors/mickamy)
 
-https://proto-tap.github.io/
-
 Real-time traffic viewers, one per protocol.
 
 Each tap is a proxy daemon that sits between your application and its backend, capturing traffic on the wire and showing it in an interactive client. No changes to your application code.
+
+https://proto-tap.github.io/
 
 | Tool                                              | Captures                | Client   |
 |---------------------------------------------------|-------------------------|----------|
