@@ -12,4 +12,4 @@ Demo and install commands: [proto-tap.github.io](https://proto-tap.github.io/)
 |---------------------------------------------------|-------------------------|----------|
 | [sql-tap](https://github.com/proto-tap/sql-tap)   | PostgreSQL, MySQL, TiDB | TUI, Web |
 | [http-tap](https://github.com/proto-tap/http-tap) | HTTP                    | TUI, Web |
-| [grpc-tap](https://github.com/proto-tap/grpc-tap) | gRPC                    | TUI      |
+| [grpc-tap](https://github.com/proto-tap/grpc-tap) | gRPC                    | TUI, Web |
